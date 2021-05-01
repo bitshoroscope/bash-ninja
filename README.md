@@ -1,4 +1,4 @@
-# terminal-ninja
+# bash-ninja
 This project contains the documentation of the workshop on mastering the terminal.
 
 It contains the description, usages and katas for the commands:
@@ -24,5 +24,5 @@ It contains the description, usages and katas for the commands:
     The operands > >> | `` ./ $()
 
 Happy coding!! And may the bits be ever in your favor! 🔮
-
+@bitshoroscope
 ✨✨✨
