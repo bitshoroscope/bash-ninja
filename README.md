@@ -3,25 +3,26 @@ This project contains the documentation of the workshop on mastering the termina
 
 It contains the description, usages and katas for the commands:
 
+    awk
     cd
     chmod
+    find
+    grep
+    history
     ls
     man
     mkdir
-    touch
-    grep
-    history
+    sed
     seq
-    sed
-    which
-    find
-    awk
-    sed
     source
+    take
+    touch
+    tr
+    which
     xargs
     
     The operands > >> | `` ./ $()
 
-Happy coding!! And may the bits be ever in your favor!
+Happy coding!! And may the bits be ever in your favor! 🔮
 
 ✨✨✨
