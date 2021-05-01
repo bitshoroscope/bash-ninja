@@ -1,0 +1,14 @@
+NAME,ALIAS,SCHOOL,SCORE
+Tony Stark,IronMan,TEC,8
+Steve Rogers,Captain America,UNAM,7
+Natasha Romanoff,Black Widow,UAM,9
+Wanda Maximoff,Scarlet Witch,IPN,10
+LOKI,LOKI,MIT,9
+Thor,Thor,MIT,7
+Bruce Banner,Hulk,IPN,10
+Peter Parker,Spider man,UNITEC,8
+Peter Quill,Star Lord,--,8
+Natasha Romanoff,Black Widow,UAM,9
+Wanda Maximoff,Scarlet Witch,IPN,10
+Carol Danvers,Captain Marvel,--,7
+Gamora,Gamora,--,7

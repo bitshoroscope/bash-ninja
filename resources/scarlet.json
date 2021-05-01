@@ -1,0 +1,304 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2021 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2021 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2021 MARVEL</a>",
+  "etag": "1c01ffab4a8bd7bf940caf8bb3fedc38cf3b5d81",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 1010971,
+        "name": "Scarlet Witch (Ultimate)",
+        "description": "",
+        "modified": "2014-03-05T13:51:08-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/53177154d219d",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010971",
+        "comics": {
+          "available": 29,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010971/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/37520",
+              "name": "Ultimate Comics Spider-Man (2009) #150 (WRAPAROUND VARIANT)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/30612",
+              "name": "Ultimate Comics X (2010) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/40459",
+              "name": "Ultimate Comics X-Men (2010) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39963",
+              "name": "Ultimate Fallout (2011) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/40033",
+              "name": "Ultimate Fallout (2011) #5 (Djurdjevic Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5289",
+              "name": "Ultimate Power (2006) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18474",
+              "name": "Ultimate War (2003) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18475",
+              "name": "Ultimate War (2003) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15699",
+              "name": "Ultimate X-Men (2001) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15710",
+              "name": "Ultimate X-Men (2001) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15721",
+              "name": "Ultimate X-Men (2001) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15743",
+              "name": "Ultimate X-Men (2001) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15754",
+              "name": "Ultimate X-Men (2001) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15702",
+              "name": "Ultimate X-Men (2001) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15713",
+              "name": "Ultimate X-Men (2001) #22"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15717",
+              "name": "Ultimate X-Men (2001) #26"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2340",
+              "name": "Ultimate X-Men (2001) #62"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2476",
+              "name": "Ultimate X-Men (2001) #64"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4377",
+              "name": "Ultimate X-Men 1/2 (2002) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/38510",
+              "name": "Ultimate X-Men MGC (2011) #1"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010971/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/8509",
+              "name": "Ultimate Comics Spider-Man (2009 - 2012)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/8512",
+              "name": "Ultimate Comics X (2010 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/13108",
+              "name": "Ultimate Comics X-Men (2010 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/14807",
+              "name": "Ultimate Fallout (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1124",
+              "name": "Ultimate Power (2006 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3659",
+              "name": "Ultimate War (2003)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/474",
+              "name": "Ultimate X-Men (2001 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/25539",
+              "name": "Ultimate X-Men 1/2 (2002)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/13887",
+              "name": "Ultimate X-Men MGC (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/216",
+              "name": "ULTIMATE X-MEN VOL. 5: ULTIMATE WAR TPB (1999)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/709",
+              "name": "Ultimates 2 (2004 - 2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2422",
+              "name": "ULTIMATES 2 VOL. 2: GRAND THEFT AMERICA TPB (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3188",
+              "name": "Ultimates 3 (2007 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7515",
+              "name": "Ultimates 3: Who Killed the Scarlet Witch? (2009 - Present)"
+            }
+          ],
+          "returned": 14
+        },
+        "stories": {
+          "available": 41,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010971/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1456",
+              "name": "Ultimate X-Men (2001) #62",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1457",
+              "name": "2 of 5 - Escape of Magneto",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1460",
+              "name": "Ultimate X-Men (2001) #64",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1461",
+              "name": "4 of 5 - Magnetic North",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2749",
+              "name": "6 of 6 - Grand Theft America",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6184",
+              "name": "ULTIMATE POWER (2006) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/6190",
+              "name": "Cover #6190",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8131",
+              "name": "6 of 6 - Grand Theft America",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/31880",
+              "name": "Ultimate X-Men (2001) #26",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/31882",
+              "name": "Return of the King: Prelude",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32038",
+              "name": "Ultimate X-Men (2001) #22",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32040",
+              "name": "Hellfire and Brimstone Part 2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32058",
+              "name": "Ultimate X-Men (2001) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32060",
+              "name": "The Tomorrow People Part 2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32143",
+              "name": "Return To Weapon X Part Six",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32165",
+              "name": "Ultimate X-Men (2001) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32166",
+              "name": "The Tomorrow People",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32202",
+              "name": "Ultimate X-Men (2001) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32204",
+              "name": "The Tomorrow People Part 3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32222",
+              "name": "Ultimate X-Men (2001) #5",
+              "type": "cover"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010971/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/characters/50/scarlet_witch?utm_campaign=apiRef&utm_source=e4a41bfdd41976e5ed235a0bd5633019"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Scarlet_Witch_%28Ultimate%29?utm_campaign=apiRef&utm_source=e4a41bfdd41976e5ed235a0bd5633019"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://marvel.com/comics/characters/1010971/scarlet_witch_ultimate?utm_campaign=apiRef&utm_source=e4a41bfdd41976e5ed235a0bd5633019"
+          }
+        ]
+      }
+    ]
+  }
+}

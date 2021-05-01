@@ -1,0 +1,67 @@
+[{
+        "name": "Ant-Man (Hank Pym)",
+        "profileLink": "http://marvel.wikia.com/Henry_Pym_(Earth-616)",
+        "imageLink": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/53176aa9df48d.jpg",
+        "intelligence": "6",
+        "strength": "7",
+        "speed": "3",
+        "durability": "3",
+        "energyProjection": "6",
+        "fightingAbility": "3"
+    },
+    {
+        "name": "Black Widow (Natalia Romanova)",
+        "profileLink": "http://marvel.wikia.com/Natalia_Romanova_(Earth-616)",
+        "imageLink": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b.jpg",
+        "intelligence": "3",
+        "strength": "3",
+        "speed": "2",
+        "durability": "3",
+        "energyProjection": "3",
+        "fightingAbility": "6"
+    },
+    {
+        "name": "Doctor Strange (Stephen Strange)",
+        "profileLink": "http://marvel.wikia.com/Stephen_Strange_(Earth-616)",
+        "imageLink": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe.jpg",
+        "intelligence": "4",
+        "strength": "2",
+        "speed": "2",
+        "durability": "2",
+        "energyProjection": "6",
+        "fightingAbility": "6"
+    },
+    {
+        "name": "Spider-Man (Peter Parker)",
+        "profileLink": "http://marvel.wikia.com/Peter_Parker_(Earth-616)",
+        "imageLink": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg",
+        "intelligence": "4",
+        "strength": "4",
+        "speed": "3",
+        "durability": "3",
+        "energyProjection": "1",
+        "fightingAbility": "4"
+    },
+    {
+        "name": "Scarlet Witch (Wanda Maximoff)",
+        "profileLink": "http://marvel.wikia.com/Wanda_Maximoff_(Earth-616)",
+        "imageLink": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5261a7d7c394b.jpg",
+        "intelligence": "3",
+        "strength": "2",
+        "speed": "2",
+        "durability": "2",
+        "energyProjection": "6",
+        "fightingAbility": "3"
+    },
+    {
+        "name": "Thanos",
+        "profileLink": "http://marvel.wikia.com/Thanos_(Earth-616)",
+        "imageLink": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd.jpg",
+        "intelligence": "6",
+        "strength": "7",
+        "speed": "7",
+        "durability": "6",
+        "energyProjection": "6",
+        "fightingAbility": "4"
+    }
+]

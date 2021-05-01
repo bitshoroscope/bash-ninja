@@ -1,0 +1,8 @@
+1 homero technician nuclear 33000
+2 apu salesman kwik-e-mart 18000 
+3 gorgory policeman spd 33000 
+4 burns boss nuclear 120000
+5 moe bartender moes 25000
+6 margo technician nuclear 33000
+7 lisa babysitter own 500
+8 hibert doctor sgh 45000
